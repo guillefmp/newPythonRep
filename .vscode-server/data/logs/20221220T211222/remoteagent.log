@@ -1,0 +1,51 @@
+2022-12-20 21:12:22.848 [info] Extension host agent started.
+2022-12-20 21:12:23.184 [info] Started initializing default profile extensions in extensions installation folder. file:///home/gmperez/.vscode-server/extensions
+2022-12-20 21:12:23.537 [info] [127.0.0.1][9f1838ed][ManagementConnection] New connection established.
+2022-12-20 21:12:23.548 [info] [127.0.0.1][f0e2b78a][ExtensionHostConnection] New connection established.
+2022-12-20 21:12:23.568 [info] [127.0.0.1][f0e2b78a][ExtensionHostConnection] <379> Launched Extension Host Process.
+2022-12-20 21:12:24.058 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/gmperez/.vscode-server/extensions
+2022-12-20 21:12:44.957 [info] Getting Manifest... christian-kohler.path-intellisense
+2022-12-20 21:12:44.958 [info] Getting Manifest... eamodio.gitlens
+2022-12-20 21:12:44.958 [info] Getting Manifest... ms-python.python
+2022-12-20 21:12:44.958 [info] Getting Manifest... ms-toolsai.jupyter
+2022-12-20 21:12:44.959 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2022-12-20 21:12:45.923 [info] Installing extension: christian-kohler.path-intellisense
+2022-12-20 21:12:45.999 [info] Installing extension: eamodio.gitlens
+2022-12-20 21:12:46.097 [info] Installing extension: ms-python.python
+2022-12-20 21:12:46.119 [info] Installing extension: ms-toolsai.jupyter-renderers
+2022-12-20 21:12:46.166 [info] Installing extension: ms-toolsai.jupyter
+2022-12-20 21:12:47.876 [info] Getting Manifest... ms-python.isort
+2022-12-20 21:12:48.593 [info] Installing extension: ms-python.isort ms-python.python
+2022-12-20 21:13:18.439 [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.4cd2f301-35ea-4f44-93e5-7574570faa77: christian-kohler.path-intellisense
+2022-12-20 21:13:22.358 [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.d17dd7c6-4b8a-4ca2-80ee-c2f8480f51f2: ms-toolsai.jupyter-renderers
+2022-12-20 21:13:22.855 [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.cb5ab76d-1d7a-4aa8-8bb8-5783ebcac042: eamodio.gitlens
+2022-12-20 21:13:24.370 [info] Renamed to /home/gmperez/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.4
+2022-12-20 21:13:24.378 [info] Extracting completed. christian-kohler.path-intellisense
+2022-12-20 21:13:24.885 [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.0f751b7f-ea7d-4c2f-a329-d5ee65a37817: ms-toolsai.jupyter
+2022-12-20 21:13:26.095 [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.12
+2022-12-20 21:13:26.095 [info] Renamed to /home/gmperez/.vscode-server/extensions/eamodio.gitlens-13.2.0
+2022-12-20 21:13:26.106 [info] Extracting completed. ms-toolsai.jupyter-renderers
+2022-12-20 21:13:26.106 [info] Extracting completed. eamodio.gitlens
+2022-12-20 21:13:26.711 [info] Extension installed successfully: christian-kohler.path-intellisense
+2022-12-20 21:13:26.713 [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-toolsai.jupyter-2022.11.1003412109
+2022-12-20 21:13:26.834 [info] Extracting completed. ms-toolsai.jupyter
+2022-12-20 21:13:26.854 [info] Marked extension as uninstalled christian-kohler.path-intellisense-2.8.3
+2022-12-20 21:13:26.855 [info] Marked extension as uninstalled eamodio.gitlens-13.2.0
+2022-12-20 21:13:26.855 [info] Marked extension as uninstalled ms-toolsai.jupyter-2022.11.1003412109
+2022-12-20 21:13:26.855 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.10
+2022-12-20 21:13:27.543 [info] [127.0.0.1][f0e2b78a][ExtensionHostConnection] The client has reconnected.
+2022-12-20 21:13:28.231 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2022-12-20 21:13:28.312 [info] Marked extension as uninstalled eamodio.gitlens-13.1.1
+2022-12-20 21:13:31.724 [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.89f8d4d9-a176-44b8-9118-5d619549ea73: ms-python.python
+2022-12-20 21:13:33.224 [info] Extension installed successfully: eamodio.gitlens
+2022-12-20 21:13:33.686 [info] Marked extension as uninstalled ms-toolsai.jupyter-2022.9.1303220346
+2022-12-20 21:13:33.845 [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-python.python-2022.20.1
+2022-12-20 21:13:33.930 [info] Extracting completed. ms-python.python
+2022-12-20 21:13:34.268 [info] Extension installed successfully: ms-toolsai.jupyter
+2022-12-20 21:13:34.440 [info] Marked extension as uninstalled ms-python.python-2022.20.1
+2022-12-20 21:13:35.483 [info] Marked extension as uninstalled ms-python.python-2022.16.1
+2022-12-20 21:13:36.872 [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.b241064c-fa0b-4327-a0f4-af4233e89c62: ms-python.isort
+2022-12-20 21:13:37.206 [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-python.isort-2022.8.0
+2022-12-20 21:13:37.217 [info] Extracting completed. ms-python.isort
+2022-12-20 21:13:37.503 [info] Extension installed successfully: ms-python.python
+2022-12-20 21:13:37.503 [info] Extension installed successfully: ms-python.isort

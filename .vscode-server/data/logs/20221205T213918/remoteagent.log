@@ -1,0 +1,84 @@
+[2022-12-05 21:39:18.634] [remoteagent] [info] Extension host agent started.
+[2022-12-05 21:39:22.198] [remoteagent] [info] [127.0.0.1][8db42dae][ManagementConnection] New connection established.
+[2022-12-05 21:39:22.203] [remoteagent] [info] [127.0.0.1][96786a48][ExtensionHostConnection] New connection established.
+[2022-12-05 21:39:28.559] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2022-12-05 21:39:28.559] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-12-05 21:39:28.560] [remoteagent] [error] RequestService#request (node) resolving shell environment failed {}
+[2022-12-05 21:39:28.574] [remoteagent] [info] [127.0.0.1][96786a48][ExtensionHostConnection] <124> Launched Extension Host Process.
+[2022-12-05 21:39:59.900] [remoteagent] [info] Getting Manifest... christian-kohler.path-intellisense
+[2022-12-05 21:39:59.901] [remoteagent] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-12-05 21:39:59.901] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-12-05 21:39:59.902] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-12-05 21:39:59.902] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-12-05 21:40:00.370] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2022-12-05 21:40:00.448] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2022-12-05 21:40:00.451] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-12-05 21:40:00.577] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-12-05 21:40:01.101] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-12-05 21:40:02.777] [remoteagent] [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+[2022-12-05 21:40:03.531] [remoteagent] [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+[2022-12-05 21:40:04.618] [remoteagent] [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-toolsai.jupyter
+[2022-12-05 21:40:04.619] [remoteagent] [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-toolsai.jupyter
+[2022-12-05 21:40:05.933] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.8.3
+[2022-12-05 21:40:06.127] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.10
+[2022-12-05 21:40:06.311] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/esbenp.prettier-vscode-9.10.3
+[2022-12-05 21:40:06.648] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-12-05 21:40:06.817] [remoteagent] [info] Downloaded extension: ms-toolsai.vscode-jupyter-slideshow /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+[2022-12-05 21:40:06.817] [remoteagent] [info] Downloaded extension: ms-toolsai.vscode-jupyter-cell-tags /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+[2022-12-05 21:40:09.817] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.018be39a-374a-4375-95ce-4e16cb5c2786: ms-toolsai.vscode-jupyter-slideshow
+[2022-12-05 21:40:10.033] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.4a085dbd-5dc4-42ff-95f0-7206ea6b8cf1: ms-toolsai.vscode-jupyter-cell-tags
+[2022-12-05 21:40:10.410] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.11.40
+[2022-12-05 21:40:10.473] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.3d2a0ea1-2ead-4e8b-a770-d2eac6a19802: christian-kohler.path-intellisense
+[2022-12-05 21:40:10.917] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+[2022-12-05 21:40:10.918] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+[2022-12-05 21:40:10.945] [remoteagent] [info] Extracting completed. ms-toolsai.vscode-jupyter-slideshow
+[2022-12-05 21:40:10.952] [remoteagent] [info] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+[2022-12-05 21:40:11.733] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.3
+[2022-12-05 21:40:11.927] [remoteagent] [info] Extracting completed. christian-kohler.path-intellisense
+[2022-12-05 21:40:12.675] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.56256f65-6e61-4df5-9f9f-459172f29bf4: esbenp.prettier-vscode
+[2022-12-05 21:40:13.099] [remoteagent] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2022-12-05 21:40:13.991] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.04fea8b6-b78a-4475-b145-06aa0f6d76bd: ms-toolsai.jupyter-renderers
+[2022-12-05 21:40:17.667] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/esbenp.prettier-vscode-9.10.3
+[2022-12-05 21:40:17.693] [remoteagent] [info] Extracting completed. esbenp.prettier-vscode
+[2022-12-05 21:40:18.328] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.9.1303220346
+[2022-12-05 21:40:18.329] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.10
+[2022-12-05 21:40:18.349] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-12-05 21:40:18.656] [remoteagent] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-12-05 21:40:19.420] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-12-05 21:40:24.535] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.dfd88c39-b6ec-4dbf-9b27-d059a74178a0: ms-toolsai.jupyter
+[2022-12-05 21:40:25.311] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-toolsai.jupyter-2022.9.1303220346
+[2022-12-05 21:40:25.376] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-12-05 21:40:25.979] [remoteagent] [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+[2022-12-05 21:40:25.979] [remoteagent] [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+[2022-12-05 21:40:25.979] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-12-05 21:40:37.280] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.5578c2c3-19eb-46e8-8fd9-498866288bc5: ms-python.vscode-pylance
+[2022-12-05 21:40:39.207] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.40
+[2022-12-05 21:40:39.214] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-12-05 21:40:40.221] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-12-05 23:33:32.872] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-06 20:56:31.793] [remoteagent] [info] [127.0.0.1][96786a48][ExtensionHostConnection] The client has reconnected.
+[2022-12-06 20:56:32.039] [remoteagent] [info] [127.0.0.1][8db42dae][ManagementConnection] The client has reconnected.
+[2022-12-06 22:57:53.401] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-07 07:29:39.189] [remoteagent] [info] [127.0.0.1][8db42dae][ManagementConnection] The client has reconnected.
+[2022-12-07 07:34:44.913] [remoteagent] [info] [127.0.0.1][96786a48][ExtensionHostConnection] <124> Extension Host Process exited with code: 0, signal: null.
+[2022-12-07 07:55:35.121] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-07 20:51:55.784] [remoteagent] [error] [127.0.0.1][96786a48][ExtensionHostConnection] Unknown reconnection token (seen before).
+[2022-12-07 20:51:56.951] [remoteagent] [info] [127.0.0.1][8db42dae][ManagementConnection] The client has reconnected.
+[2022-12-07 20:51:57.806] [remoteagent] [info] [127.0.0.1][a84e15f5][ExtensionHostConnection] New connection established.
+[2022-12-07 20:51:57.840] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-12-07 20:51:59.682] [remoteagent] [info] [127.0.0.1][a84e15f5][ExtensionHostConnection] <9406> Launched Extension Host Process.
+[2022-12-07 20:52:00.105] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-07 21:23:02.214] [remoteagent] [info] Detected extension installed from another source mhutchie.git-graph
+[2022-12-07 21:23:17.404] [remoteagent] [info] Detected extension installed from another source eamodio.gitlens
+[2022-12-07 23:16:18.059] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-07 23:18:06.125] [remoteagent] [info] [127.0.0.1][a84e15f5][ExtensionHostConnection] The client has reconnected.
+[2022-12-07 23:18:07.362] [remoteagent] [info] [127.0.0.1][8db42dae][ManagementConnection] The client has reconnected.
+[2022-12-07 23:51:22.557] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-08 07:33:57.686] [remoteagent] [info] [127.0.0.1][8db42dae][ManagementConnection] The client has reconnected.
+[2022-12-08 07:34:08.496] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-08 07:34:35.802] [remoteagent] [info] [127.0.0.1][a84e15f5][ExtensionHostConnection] The client has reconnected.
+[2022-12-08 07:55:41.135] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-08 21:24:40.866] [remoteagent] [info] [127.0.0.1][8db42dae][ManagementConnection] The client has reconnected.
+[2022-12-08 21:24:45.864] [remoteagent] [info] [127.0.0.1][a84e15f5][ExtensionHostConnection] The client has reconnected.
+[2022-12-08 21:51:51.957] [remoteagent] [info] [127.0.0.1][8db42dae][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-12-08 21:51:55.180] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

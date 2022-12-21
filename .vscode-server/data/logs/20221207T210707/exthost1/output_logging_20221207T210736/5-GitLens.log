@@ -1,0 +1,10 @@
+[2022-12-08 03:23:40.603] [GIT  ] [/home/gmperez/test/python-starterpack] git blame --root --incremental -- README.md • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false blame --root --incremental -- README.md • no such ref: HEAD • 258 ms
+
+[2022-12-08 03:56:46.799] [GIT  ] [/home/gmperez/test/python-starterpack] git log --format=%x3cr%x3e%x20%H -n3 -m -L 4,4:README.md • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 4,4:README.md • file README.md has only 2 lines • 40 ms
+
+[2022-12-08 04:32:56.550] [GIT  ] [/home/gmperez/test/python-starterpack] git log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:README.md • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:README.md • file README.md has only 3 lines • 22 ms
+
+[2022-12-08 04:33:10.086] [GIT  ] [/home/gmperez/test/python-starterpack] git log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:README.md • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:README.md • file README.md has only 3 lines • 16 ms
+
+[2022-12-09 03:49:11.102] [GIT  ] [/home/gmperez/test/python-starterpack] git log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:README.md • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 5,5:README.md • file README.md has only 3 lines • 244 ms
+

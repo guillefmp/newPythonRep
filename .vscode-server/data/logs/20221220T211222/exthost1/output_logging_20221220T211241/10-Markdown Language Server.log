@@ -1,0 +1,10 @@
+[Trace 05:00:01.135] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gmperez/personalProjects/proyectoDemoCursoPrework/README.md
+[Trace 05:00:01.139] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/personalProjects/proyectoDemoCursoPrework/README.md
+[Trace 05:00:01.147] Server: connection.languages.diagnostics.on: file:///home/gmperez/personalProjects/proyectoDemoCursoPrework/README.md
+[Trace 05:00:01.173] Server: connection.languages.diagnostics.on: file:///home/gmperez/personalProjects/proyectoDemoCursoPrework/README.md
+[Trace 05:00:01.640] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/personalProjects/proyectoDemoCursoPrework/README.md 1
+[Debug 05:00:01.641] LinkProvider: compute - file:///home/gmperez/personalProjects/proyectoDemoCursoPrework/README.md
+[Debug 05:00:01.896] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/personalProjects/proyectoDemoCursoPrework/README.md 1
+[Debug 05:00:01.897] TableOfContentsProvider: create - file:///home/gmperez/personalProjects/proyectoDemoCursoPrework/README.md
+[Trace 05:00:37.605] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/gmperez/personalProjects/proyectoDemoCursoPrework/README.md
+[Trace 05:00:37.605] VsCodeClientWorkspace: deleteDocument: file:///home/gmperez/personalProjects/proyectoDemoCursoPrework/README.md

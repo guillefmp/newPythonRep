@@ -1,0 +1,1023 @@
+[Trace 03:21:05.569] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:21:05.571] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:21:05.583] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:21:05.612] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:21:05.661] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 1
+[Debug 03:21:05.661] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:21:06.105] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 1
+[Debug 03:21:06.107] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:22:57.193] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:22:57.194] VsCodeClientWorkspace: deleteDocument: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:23:39.646] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:23:39.851] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:23:40.012] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:23:40.013] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:23:40.015] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:23:40.017] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 1
+[Debug 03:23:40.018] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:23:40.084] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 1
+[Debug 03:23:40.085] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:23:40.106] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:25:27.025] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:25:27.025] VsCodeClientWorkspace: deleteDocument: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:54:54.893] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:54:55.111] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:54:55.113] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:54:55.128] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:54:55.138] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 1
+[Debug 03:54:55.139] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:54:55.142] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:54:55.157] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:54:55.207] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 1
+[Trace 03:55:13.235] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:13.236] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:13.399] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:13.400] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:13.609] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:13.609] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:13.788] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:13.837] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:13.959] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:13.960] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:14.116] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:14.116] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:14.337] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:14.338] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:14.520] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:14.523] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:14.687] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:14.688] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:14.760] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:14.773] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:15.002] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 11
+[Debug 03:55:15.002] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:15.022] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:15.028] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 11
+[Trace 03:55:15.572] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:15.572] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:15.760] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 12
+[Debug 03:55:15.760] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:15.802] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:15.803] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:15.994] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 13
+[Debug 03:55:15.994] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:16.055] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:16.119] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:16.120] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:16.131] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 14
+[Debug 03:55:16.135] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:16.152] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:16.256] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:16.257] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:16.433] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:16.433] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:16.603] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 16
+[Debug 03:55:16.603] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:16.671] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 16
+[Debug 03:55:16.671] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:17.868] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:17.869] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:18.004] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:18.005] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:18.143] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:18.143] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:18.293] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:18.294] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:18.479] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 20
+[Debug 03:55:18.480] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:18.536] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:18.537] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 20
+[Trace 03:55:18.942] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:18.945] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:19.133] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 21
+[Debug 03:55:19.134] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:19.186] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:19.203] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 21
+[Trace 03:55:19.552] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:19.553] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:19.694] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 22
+[Debug 03:55:19.694] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:19.783] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:19.783] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:19.870] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:19.870] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:20.075] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:20.075] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:20.221] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 25
+[Debug 03:55:20.222] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:20.285] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:20.298] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 25
+[Trace 03:55:21.303] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:21.303] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:21.524] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:21.526] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:21.689] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 27
+[Debug 03:55:21.689] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:21.734] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:21.738] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 27
+[Trace 03:55:22.392] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:22.393] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:22.560] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:22.560] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:22.708] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:22.709] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:22.871] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:22.871] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.092] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.093] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.291] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.292] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.471] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.471] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.592] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.592] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.736] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.737] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.980] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.981] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.983] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:23.996] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:24.183] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 38
+[Debug 03:55:24.185] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:24.242] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:24.264] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 38
+[Trace 03:55:24.496] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:24.496] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:24.607] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:24.608] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:24.766] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:24.767] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:24.943] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 41
+[Debug 03:55:24.943] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:24.996] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:25.014] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 41
+[Trace 03:55:27.600] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:27.600] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:55:27.790] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 42
+[Debug 03:55:27.790] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:27.843] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 42
+[Debug 03:55:27.844] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:55:38.328] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:41.047] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:41.166] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 42
+[Trace 03:56:47.563] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:47.564] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:47.709] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 43
+[Debug 03:56:47.710] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:47.759] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 43
+[Debug 03:56:47.759] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:48.060] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:48.061] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:48.267] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 44
+[Debug 03:56:48.268] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:48.315] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:48.332] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 44
+[Trace 03:56:48.690] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:48.690] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:48.863] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 45
+[Debug 03:56:48.873] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:48.913] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:48.926] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 45
+[Trace 03:56:49.094] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:49.095] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:49.302] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 46
+[Debug 03:56:49.302] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:49.349] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:49.357] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 46
+[Trace 03:56:50.681] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:50.682] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:50.873] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 47
+[Debug 03:56:50.873] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:50.936] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:50.941] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 47
+[Trace 03:56:51.041] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:51.041] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:51.216] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 48
+[Debug 03:56:51.216] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:51.263] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:51.271] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 48
+[Trace 03:56:55.780] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:55.781] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:55.995] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 49
+[Debug 03:56:55.995] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:56:56.025] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:56:56.065] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 49
+[Trace 04:00:27.148] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:01:18.527] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:01:54.110] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:01:54.111] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:01:54.358] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 49
+[Debug 04:01:54.358] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:01:58.856] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:02:00.511] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:02:00.573] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 49
+[Trace 04:02:02.158] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:02:04.428] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:02:04.580] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 49
+[Trace 04:23:39.921] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:23:44.694] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 49
+[Trace 04:31:58.815] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:31:58.957] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 49
+[Trace 04:32:06.266] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:06.270] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:06.403] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 50
+[Debug 04:32:06.403] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:06.417] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 50
+[Debug 04:32:06.474] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:06.495] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 50
+[Trace 04:32:06.987] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:06.995] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:07.113] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 51
+[Debug 04:32:07.113] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:07.114] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 51
+[Debug 04:32:07.156] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:07.168] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 51
+[Trace 04:32:07.559] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:07.560] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:07.666] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 52
+[Debug 04:32:07.666] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:07.670] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 52
+[Debug 04:32:07.718] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:07.735] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 52
+[Trace 04:32:08.018] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:08.019] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:08.121] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 53
+[Debug 04:32:08.122] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:08.122] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 53
+[Debug 04:32:08.208] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:08.227] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 53
+[Trace 04:32:08.525] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:08.525] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:08.526] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:08.572] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:08.647] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:08.715] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 56
+[Debug 04:32:08.716] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:08.915] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:08.916] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:08.916] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:08.917] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:09.070] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:09.070] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:09.071] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:09.074] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:09.261] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 60
+[Debug 04:32:09.261] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:09.268] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 60
+[Debug 04:32:09.333] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:09.391] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:09.392] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:09.403] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 61
+[Debug 04:32:09.403] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:09.406] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:09.548] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 61
+[Debug 04:32:09.564] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 61
+[Trace 04:32:11.631] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:11.632] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:11.722] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:11.723] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:11.873] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 63
+[Debug 04:32:11.873] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:11.874] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 63
+[Debug 04:32:11.916] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:11.987] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:11.988] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:12.022] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 64
+[Debug 04:32:12.023] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:12.029] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:12.144] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:12.144] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:12.282] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 65
+[Debug 04:32:12.282] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:12.287] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 65
+[Debug 04:32:12.332] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:12.351] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 65
+[Trace 04:32:13.246] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:13.247] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:13.430] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 66
+[Debug 04:32:13.431] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:13.432] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 66
+[Debug 04:32:13.475] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:13.491] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 66
+[Trace 04:32:18.689] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:18.690] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:18.863] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 67
+[Debug 04:32:18.863] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:18.864] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 67
+[Debug 04:32:18.943] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:18.969] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 67
+[Trace 04:32:19.057] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:19.058] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:19.229] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:19.229] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:19.409] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:19.409] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:19.572] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 70
+[Debug 04:32:19.572] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:19.573] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 70
+[Debug 04:32:19.611] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:19.627] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 70
+[Trace 04:32:19.865] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:19.865] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:20.046] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:20.046] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:20.228] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 72
+[Debug 04:32:20.228] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:20.229] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 72
+[Debug 04:32:20.277] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:20.286] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 72
+[Trace 04:32:20.581] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:20.581] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:20.773] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:20.773] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:20.973] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:20.974] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:21.154] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:21.155] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:21.332] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 76
+[Debug 04:32:21.332] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:21.337] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 76
+[Debug 04:32:21.380] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:21.389] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 76
+[Trace 04:32:23.168] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:23.172] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:23.325] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:23.325] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:23.509] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 78
+[Debug 04:32:23.509] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:23.510] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 78
+[Debug 04:32:23.549] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:23.559] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 78
+[Trace 04:32:24.037] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:24.038] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:24.211] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 79
+[Debug 04:32:24.211] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:24.212] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 79
+[Debug 04:32:24.257] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:24.265] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 79
+[Trace 04:32:24.348] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:24.348] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:24.561] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 80
+[Debug 04:32:24.561] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:24.562] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 80
+[Debug 04:32:24.604] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:24.626] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 80
+[Trace 04:32:24.705] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:24.706] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:24.840] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:24.841] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:25.024] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 82
+[Debug 04:32:25.024] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:25.025] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 82
+[Debug 04:32:25.068] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:25.083] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 82
+[Trace 04:32:25.397] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:25.398] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:25.527] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 83
+[Debug 04:32:25.528] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:25.529] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 83
+[Trace 04:32:25.616] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:25.617] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:25.757] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 84
+[Debug 04:32:25.758] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:25.759] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 84
+[Debug 04:32:25.801] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:25.820] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 84
+[Trace 04:32:26.788] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:26.789] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:26.976] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 85
+[Debug 04:32:26.976] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:26.977] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 85
+[Debug 04:32:27.016] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:27.045] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 85
+[Trace 04:32:27.372] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:27.372] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:27.373] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:27.383] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:27.531] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:27.532] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:27.605] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:27.606] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:27.771] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 89
+[Debug 04:32:27.771] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:27.771] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 89
+[Debug 04:32:27.845] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:27.920] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 89
+[Trace 04:32:28.116] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:28.116] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:28.254] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:28.255] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:28.398] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 91
+[Debug 04:32:28.398] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:28.399] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 91
+[Debug 04:32:28.437] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:28.453] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 91
+[Trace 04:32:28.771] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:28.772] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:28.904] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:28.904] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:29.059] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 93
+[Debug 04:32:29.060] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:29.061] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 93
+[Debug 04:32:29.105] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:29.117] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 93
+[Trace 04:32:29.361] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:29.362] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:29.516] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:29.517] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:29.706] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:29.707] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:29.707] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:29.708] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:29.870] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:29.871] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:29.948] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 98
+[Debug 04:32:29.948] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:29.973] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 98
+[Debug 04:32:30.004] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:30.032] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 98
+[Trace 04:32:32.045] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:32.046] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:32.184] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 99
+[Debug 04:32:32.185] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:32.185] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 99
+[Debug 04:32:32.220] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:32.359] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:32.359] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:32.370] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 100
+[Debug 04:32:32.371] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:32.374] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:32.516] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 100
+[Debug 04:32:32.541] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 100
+[Trace 04:32:33.271] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:33.271] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:33.444] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 101
+[Debug 04:32:33.445] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:33.445] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 101
+[Debug 04:32:33.496] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:33.514] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 101
+[Trace 04:32:33.658] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:33.660] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:33.777] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 102
+[Debug 04:32:33.777] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:33.819] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 102
+[Trace 04:32:33.820] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:33.820] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:34.013] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 103
+[Debug 04:32:34.013] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:34.013] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 103
+[Debug 04:32:34.043] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:34.053] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 103
+[Trace 04:32:35.822] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:35.823] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:35.946] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:35.947] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:36.136] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 105
+[Debug 04:32:36.137] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:36.137] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 105
+[Trace 04:32:36.226] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:36.227] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:36.394] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 106
+[Debug 04:32:36.395] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:36.396] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 106
+[Debug 04:32:36.437] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:36.456] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 106
+[Trace 04:32:37.024] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:37.025] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:37.239] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 107
+[Debug 04:32:37.239] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:37.240] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 107
+[Debug 04:32:37.279] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:37.301] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 107
+[Trace 04:32:38.136] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:38.136] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:38.319] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 108
+[Debug 04:32:38.319] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:38.320] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 108
+[Debug 04:32:38.368] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:38.375] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 108
+[Trace 04:32:38.490] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:38.491] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:38.659] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 109
+[Debug 04:32:38.660] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:38.660] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 109
+[Debug 04:32:38.709] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:38.757] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 109
+[Trace 04:32:39.102] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:39.102] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:39.285] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 110
+[Debug 04:32:39.285] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:39.286] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 110
+[Debug 04:32:39.329] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:39.338] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 110
+[Trace 04:32:41.145] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:41.146] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:41.343] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 111
+[Debug 04:32:41.343] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:41.347] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 111
+[Trace 04:32:41.365] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:41.366] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:41.436] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:41.436] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:41.632] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 113
+[Debug 04:32:41.632] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:41.633] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 113
+[Debug 04:32:41.672] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:41.712] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 113
+[Trace 04:32:41.713] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:41.713] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:41.774] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:41.774] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:41.955] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 115
+[Debug 04:32:41.955] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:41.956] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 115
+[Debug 04:32:42.007] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:42.057] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:42.057] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:42.069] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 116
+[Debug 04:32:42.070] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:42.085] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:42.219] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 116
+[Debug 04:32:42.219] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 116
+[Trace 04:32:43.273] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:43.274] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:43.460] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:43.460] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:43.573] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:43.577] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:43.702] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:43.703] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:43.892] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 120
+[Debug 04:32:43.892] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:43.892] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 120
+[Debug 04:32:43.942] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:43.960] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 120
+[Trace 04:32:44.582] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:44.583] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:44.796] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:44.797] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:44.975] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 122
+[Debug 04:32:44.975] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:44.975] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 122
+[Debug 04:32:45.030] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:45.070] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:45.070] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:45.074] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 123
+[Debug 04:32:45.074] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:45.076] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:45.200] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:45.203] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:45.398] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 124
+[Debug 04:32:45.398] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:45.400] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 124
+[Debug 04:32:45.472] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:45.484] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 124
+[Trace 04:32:46.045] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:46.046] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:46.213] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 125
+[Debug 04:32:46.213] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:46.214] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 125
+[Debug 04:32:46.269] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:46.280] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 125
+[Trace 04:32:48.180] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:48.180] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:48.321] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:48.323] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:48.518] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 127
+[Debug 04:32:48.519] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:48.519] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 127
+[Trace 04:32:48.556] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:48.557] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:48.666] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:48.666] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:48.833] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 129
+[Debug 04:32:48.833] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:48.833] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 129
+[Trace 04:32:48.911] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:48.911] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:48.987] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:48.988] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:49.145] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 131
+[Debug 04:32:49.146] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:49.146] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 131
+[Debug 04:32:49.198] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:49.205] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 131
+[Trace 04:32:49.291] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:49.291] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:49.458] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 132
+[Debug 04:32:49.458] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:49.459] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 132
+[Debug 04:32:49.500] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:49.516] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 132
+[Trace 04:32:49.770] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:49.770] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:49.943] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:49.945] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:50.129] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:50.129] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:50.129] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:50.131] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:50.220] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:50.220] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:50.424] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:50.425] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:50.596] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 138
+[Debug 04:32:50.597] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:50.597] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 138
+[Debug 04:32:50.638] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:50.648] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 138
+[Trace 04:32:56.375] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:56.376] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:56.429] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:56.429] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:56.605] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:56.606] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:56.705] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:56.705] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:56.778] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:56.779] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:56.948] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 143
+[Debug 04:32:56.948] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:56.949] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 143
+[Debug 04:32:56.996] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:57.007] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 143
+[Trace 04:32:57.314] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:57.314] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:57.508] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 144
+[Debug 04:32:57.508] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:57.516] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 144
+[Debug 04:32:57.563] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:57.584] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 144
+[Trace 04:32:58.174] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:58.175] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:58.366] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 145
+[Debug 04:32:58.367] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:58.367] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 145
+[Debug 04:32:58.417] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:58.425] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 145
+[Trace 04:32:59.373] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:59.374] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:59.546] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:59.547] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:59.735] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:59.735] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:59.841] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 148
+[Debug 04:32:59.842] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:32:59.842] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 148
+[Debug 04:32:59.900] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:32:59.927] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 148
+[Trace 04:33:00.194] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:00.194] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:00.376] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 149
+[Debug 04:33:00.376] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:00.376] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 149
+[Debug 04:33:00.414] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:00.420] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 149
+[Trace 04:33:00.985] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:00.986] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:01.155] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:01.157] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:01.358] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:01.358] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:01.450] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:01.451] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:01.576] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:01.576] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:01.732] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 154
+[Debug 04:33:01.732] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:01.740] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 154
+[Debug 04:33:01.812] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:01.854] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 154
+[Trace 04:33:01.969] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:01.970] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:02.074] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:02.075] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:02.207] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 156
+[Debug 04:33:02.208] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:02.221] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 156
+[Debug 04:33:02.265] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:02.272] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 156
+[Trace 04:33:02.966] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:02.967] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:03.173] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:03.173] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:03.367] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 158
+[Debug 04:33:03.367] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:03.367] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 158
+[Debug 04:33:03.411] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:03.431] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 158
+[Trace 04:33:03.894] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:03.894] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:04.070] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 159
+[Debug 04:33:04.070] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:04.071] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 159
+[Trace 04:33:04.151] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:04.151] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:04.211] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:04.211] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:04.379] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 161
+[Debug 04:33:04.379] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:04.379] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 161
+[Debug 04:33:04.450] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:04.454] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 161
+[Trace 04:33:12.104] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:12.105] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:12.274] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 162
+[Debug 04:33:12.274] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:12.293] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 162
+[Debug 04:33:12.363] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:12.392] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 162
+[Trace 04:33:14.752] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:14.753] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:14.884] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 163
+[Debug 04:33:14.884] TableOfContentsProvider: create - file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:14.886] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 163
+[Debug 04:33:14.948] LinkProvider: compute - file:///home/gmperez/test/python-starterpack/README.md
+[Trace 04:33:14.959] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gmperez/test/python-starterpack/README.md 163
+[Trace 04:33:38.508] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 04:33:47.720] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 163
+[Debug 04:34:07.838] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 163
+[Trace 04:54:56.594] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/gmperez/test/python-starterpack/venv/lib/python3.8/site-packages/idna-3.4.dist-info/LICENSE.md
+[Trace 03:49:01.507] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:49:03.102] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 163
+[Debug 03:49:25.021] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 163
+[Debug 03:49:27.532] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 163
+[Debug 03:49:29.107] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 163
+[Trace 03:49:34.428] Server: connection.languages.diagnostics.on: gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Trace 03:49:34.721] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:35.422] VsCodeClientWorkspace: TextDocument.onDidOpen: gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Trace 03:49:35.542] VsCodeClientWorkspace: TextDocument.onDidChanceContent: gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Trace 03:49:35.723] VsCodeClientWorkspace: TextDocument.onDidOpen: gitlens://7b22726566223a2239313561373964303665663831376162623130633138303531666331613063643831663733386132222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22915a79d%22%7D
+[Trace 03:49:35.723] VsCodeClientWorkspace: TextDocument.onDidChanceContent: gitlens://7b22726566223a2239313561373964303665663831376162623130633138303531666331613063643831663733386132222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22915a79d%22%7D
+[Trace 03:49:35.724] Server: connection.languages.diagnostics.on: gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Trace 03:49:35.724] DocumentSymbolProvider: provideDocumentSymbols — gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D 1
+[Debug 03:49:35.874] LinkProvider: compute - gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Trace 03:49:35.874] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:49:35.875] LinkProvider: compute - gitlens://7b22726566223a2239313561373964303665663831376162623130633138303531666331613063643831663733386132222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22915a79d%22%7D
+[Trace 03:49:35.875] Server: connection.languages.diagnostics.on: gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Debug 03:49:36.202] TableOfContentsProvider: create - gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Trace 03:49:36.202] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:36.268] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:36.353] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:36.554] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:36.863] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:36.955] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:37.177] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:37.354] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:37.554] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:37.755] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:37.955] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:38.700] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:38.900] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:39.100] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:39.300] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:39.500] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:39.701] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:39.900] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:40.101] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:40.301] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:40.502] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:40.701] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:40.901] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:41.102] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:41.302] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:41.502] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:41.703] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:41.903] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:42.104] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:42.304] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:42.505] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:42.705] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:42.905] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:43.106] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:43.306] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:43.506] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:43.706] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:43.907] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:44.108] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:44.308] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:44.509] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:44.709] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:44.911] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:45.111] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:45.310] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:45.511] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:45.711] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:45.912] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:46.112] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:46.313] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:46.513] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:46.713] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:46.913] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:47.113] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:47.313] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:47.512] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:47.712] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:47.912] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:48.113] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:48.313] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:48.512] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:48.712] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:48.912] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:49.113] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:49.312] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:49.513] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:49.713] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:49.913] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:50.113] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:50.314] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:50.514] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:50.713] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:50.914] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:51.114] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:51.314] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:51.515] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:51.714] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:51.914] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:52.115] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:52.315] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:52.515] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:52.716] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:52.916] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:53.117] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:53.318] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:53.517] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:53.718] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:53.918] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:54.118] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:54.318] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:54.519] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:54.719] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:54.919] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:55.119] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:55.319] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:55.519] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:55.720] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:55.921] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:56.121] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:56.321] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:56.522] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:56.722] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:56.923] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:57.122] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:57.322] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:57.522] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:57.722] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:57.923] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:58.124] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:58.325] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:58.523] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:58.723] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:58.923] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:59.123] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:59.323] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:59.524] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:59.724] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:49:59.925] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:00.125] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:00.324] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:00.524] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:00.725] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:00.925] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:01.125] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:01.326] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:01.526] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:01.727] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:01.927] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:02.127] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:02.328] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:02.527] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:02.728] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:02.928] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:03.127] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:03.327] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:03.527] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:03.727] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:03.927] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:04.127] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:04.328] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:04.527] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:04.727] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:04.928] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:05.127] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:05.327] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:05.528] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:05.728] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:05.928] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:06.128] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:06.329] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:06.529] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:06.729] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:06.929] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:07.130] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:07.331] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:07.531] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:07.731] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:07.931] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:08.134] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:08.333] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:08.534] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:08.733] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:08.934] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:09.135] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:09.336] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:09.537] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:09.737] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:09.937] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:10.137] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:10.336] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:10.537] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:10.736] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:10.937] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:11.137] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:11.338] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:11.538] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:11.738] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:11.938] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:12.140] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:12.339] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:12.539] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:12.739] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:12.940] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:13.141] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:13.341] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:13.541] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:13.742] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:13.943] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:14.143] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:14.344] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:14.544] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:14.744] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:14.945] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:15.146] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:15.346] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:15.546] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:15.747] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:15.946] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:16.148] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:16.347] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:16.547] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:16.748] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:16.947] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:17.148] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:17.348] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:17.549] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:17.750] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:17.950] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:18.150] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:18.351] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:18.551] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:18.752] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:18.951] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:19.152] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:19.352] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:19.552] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:19.753] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:19.953] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:20.154] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:20.355] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:20.555] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:20.756] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:20.956] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:21.156] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:21.357] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:21.558] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:21.758] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:21.959] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:22.158] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:22.358] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:22.559] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:22.760] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:22.959] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:23.160] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:23.360] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:23.560] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:23.761] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:23.961] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:24.161] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:24.361] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:24.560] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:24.761] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:24.962] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:25.162] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:25.400] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:25.600] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:25.799] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:26.000] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:26.200] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:26.406] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:26.605] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:26.806] Server: connection.languages.diagnostics.on: gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Trace 03:50:37.704] Server: connection.languages.diagnostics.on: gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Trace 03:50:47.170] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:50:47.359] Server: connection.languages.diagnostics.on: gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Trace 03:50:51.267] Server: connection.languages.diagnostics.on: gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Trace 03:50:51.446] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:51:05.949] VsCodeClientWorkspace: TextDocument.onDidClose: gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Trace 03:51:05.949] VsCodeClientWorkspace: deleteDocument: gitlens://7b22726566223a2263643738626466633332343265333666613234313835643661643538643639613561636237616264222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22cd78bdf%22%7D
+[Trace 03:51:05.949] VsCodeClientWorkspace: TextDocument.onDidClose: gitlens://7b22726566223a2239313561373964303665663831376162623130633138303531666331613063643831663733386132222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22915a79d%22%7D
+[Trace 03:51:05.950] VsCodeClientWorkspace: deleteDocument: gitlens://7b22726566223a2239313561373964303665663831376162623130633138303531666331613063643831663733386132222c227265706f50617468223a222f686f6d652f676d706572657a2f746573742f707974686f6e2d737461727465727061636b227d/home/gmperez/test/python-starterpack/README.md?%7B%22ref%22%3A%22915a79d%22%7D
+[Trace 03:51:05.950] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Debug 03:51:07.578] MdFoldingProvider: provideFoldingRanges — file:///home/gmperez/test/python-starterpack/README.md 163
+[Trace 03:51:18.016] Server: connection.languages.diagnostics.on: file:///home/gmperez/test/python-starterpack/README.md
+[Trace 03:51:27.344] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/gmperez/test/python-starterpack/README.md

@@ -1,0 +1,25 @@
+[Info  - 8:54:18 PM] (9461) Pylance language server 2022.10.40 (pyright 24992a73) starting
+[Info  - 8:54:18 PM] (9461) Server root directory: /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.40/dist
+[Info  - 8:54:18 PM] (9461) Starting service instance "py-proyect"
+[Info  - 8:54:18 PM] (9461) Notebook support: LSP
+[Info  - 8:54:18 PM] (9461) Interactive window support: LSP
+[Info  - 8:54:18 PM] (9461) No configuration file found.
+[Info  - 8:54:18 PM] (9461) No pyproject.toml file found.
+[Info  - 8:54:18 PM] (9461) Setting pythonPath for service "py-proyect": "/bin/python3"
+[Warn  - 8:54:18 PM] (9461) stubPath /home/gmperez/py-proyect/typings is not a valid directory.
+[Info  - 8:54:19 PM] (9461) Assuming Python version 3.8
+[Info  - 8:54:19 PM] (9461) Assuming Python platform Linux
+[Info  - 8:54:21 PM] (9461) Searching for source files
+[Info  - 8:54:21 PM] (9461) Found 2 source files
+[Info  - 8:54:24 PM] (9461) [FG] Long operation: parsing: /home/gmperez/py-proyect/GMBOT/gmBot.py (2365ms)
+[Info  - 8:54:24 PM] (9461) Background analysis(1) root directory: /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.40/dist
+[Info  - 8:54:24 PM] (9461) Background analysis(1) started
+[Info  - 8:54:27 PM] (9461) [BG(1)] Long operation: getSemanticTokens full at /home/gmperez/py-proyect/GMBOT/gmBot.py (3083ms)
+[Info  - 10:08:40 PM] (9461) Searching for source files
+[Info  - 10:08:40 PM] (9461) Found 3 source files
+[Info  - 10:08:44 PM] (9461) [BG(1)] Long operation: checking: /home/gmperez/py-proyect/hello.py (3070ms)
+[Info  - 10:08:44 PM] (9461) [BG(1)] Long operation: analyzing: /home/gmperez/py-proyect/hello.py (3559ms)
+[Info  - 10:08:46 PM] (9461) [BG(1)] Long operation: checking: /home/gmperez/py-proyect/GMBOT/gmBot.py (2375ms)
+[Info  - 10:08:46 PM] (9461) [BG(1)] Long operation: analyzing: /home/gmperez/py-proyect/GMBOT/gmBot.py (2473ms)
+[Info  - 10:16:37 PM] (9461) [BG(1)] Long operation: checking: /home/gmperez/py-proyect/GMBOT/gmBot.py (3679ms)
+[Info  - 10:16:37 PM] (9461) [BG(1)] Long operation: analyzing: /home/gmperez/py-proyect/GMBOT/gmBot.py (3712ms)

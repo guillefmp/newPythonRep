@@ -1,0 +1,18 @@
+[2022-09-29 22:59:49.012] [remoteagent] [info] Extension host agent started.
+[2022-09-29 22:59:49.909] [remoteagent] [info] [127.0.0.1][b510308a][ManagementConnection] New connection established.
+[2022-09-29 22:59:49.917] [remoteagent] [info] [127.0.0.1][b064d58f][ExtensionHostConnection] New connection established.
+[2022-09-29 22:59:50.002] [remoteagent] [info] [127.0.0.1][b064d58f][ExtensionHostConnection] <193> Launched Extension Host Process.
+[2022-09-29 22:59:59.957] [remoteagent] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-09-29 22:59:59.958] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-09-29 23:00:00.084] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2022-09-29 23:00:00.182] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-09-29 23:00:02.342] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/esbenp.prettier-vscode-9.9.0
+[2022-09-29 23:00:03.509] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.54caf5e7-b4f9-4e7c-8c14-3f3afb886c63: esbenp.prettier-vscode
+[2022-09-29 23:00:06.050] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.9.40
+[2022-09-29 23:00:06.051] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/esbenp.prettier-vscode-9.9.0
+[2022-09-29 23:00:06.058] [remoteagent] [info] Extracting completed. esbenp.prettier-vscode
+[2022-09-29 23:00:06.415] [remoteagent] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-09-29 23:00:19.400] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.dc329aa9-7816-4ccb-9b6e-01cf6ccde636: ms-python.vscode-pylance
+[2022-09-29 23:00:19.689] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40
+[2022-09-29 23:00:19.694] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-09-29 23:00:19.864] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance

@@ -1,0 +1,19 @@
+[Info  - 9:42:28 PM] (222) Pylance language server 2022.10.40 (pyright 24992a73) starting
+[Info  - 9:42:28 PM] (222) Server root directory: /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.40/dist
+[Info  - 9:42:29 PM] (222) Starting service instance "py-proyect"
+[Info  - 9:42:29 PM] (222) Notebook support: LSP
+[Info  - 9:42:29 PM] (222) Interactive window support: LSP
+[Info  - 9:42:29 PM] (222) No configuration file found.
+[Info  - 9:42:29 PM] (222) No pyproject.toml file found.
+[Info  - 9:42:29 PM] (222) Setting pythonPath for service "py-proyect": "/bin/python3"
+[Warn  - 9:42:29 PM] (222) stubPath /home/gmperez/py-proyect/typings is not a valid directory.
+[Info  - 9:42:29 PM] (222) Assuming Python version 3.8
+[Info  - 9:42:29 PM] (222) Assuming Python platform Linux
+[Info  - 9:42:34 PM] (222) Searching for source files
+[Info  - 9:42:34 PM] (222) Found 1 source file
+[Info  - 9:42:34 PM] (222) Background analysis(1) root directory: /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.40/dist
+[Info  - 9:42:34 PM] (222) Background analysis(1) started
+[Info  - 10:18:32 PM] (222) Searching for source files
+[Info  - 10:18:32 PM] (222) Found 1 source file
+[Info  - 10:18:44 PM] (222) Searching for source files
+[Info  - 10:18:44 PM] (222) Found 2 source files

@@ -1,0 +1,23 @@
+[2022-09-21 22:41:38.970] [remoteagent] [info] Extension host agent started.
+[2022-09-21 22:41:40.674] [remoteagent] [info] [127.0.0.1][0927d08a][ManagementConnection] New connection established.
+[2022-09-21 22:41:40.678] [remoteagent] [info] [127.0.0.1][137f008a][ExtensionHostConnection] New connection established.
+[2022-09-21 22:41:40.684] [remoteagent] [info] [127.0.0.1][137f008a][ExtensionHostConnection] <193> Launched Extension Host Process.
+[2022-09-21 22:41:46.642] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-09-21 22:41:46.893] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-09-21 22:41:49.826] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.9.30
+[2022-09-21 22:42:02.703] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.0cb8aa6a-210e-429d-a5de-c4e30d46d16d: ms-python.vscode-pylance
+[2022-09-21 22:42:03.551] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.30
+[2022-09-21 22:42:03.556] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-09-21 22:42:04.221] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-09-21 22:43:38.304] [remoteagent] [info] [127.0.0.1][137f008a][ExtensionHostConnection] <193> [0mGET /favicon.ico [33m404[0m 3.110 ms - 150[0m
+
+[2022-09-21 23:10:03.036] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-22 21:40:22.391] [remoteagent] [info] [127.0.0.1][0927d08a][ManagementConnection] The client has reconnected.
+[2022-09-22 21:40:22.448] [remoteagent] [info] [127.0.0.1][137f008a][ExtensionHostConnection] The client has reconnected.
+[2022-09-22 21:58:30.508] [remoteagent] [info] [127.0.0.1][157dbddb][ManagementConnection] New connection established.
+[2022-09-22 21:58:31.317] [remoteagent] [info] [127.0.0.1][0539f1fb][ExtensionHostConnection] New connection established.
+[2022-09-22 21:58:31.328] [remoteagent] [info] [127.0.0.1][0539f1fb][ExtensionHostConnection] <13549> Launched Extension Host Process.
+[2022-09-22 22:04:18.211] [remoteagent] [info] [127.0.0.1][0927d08a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-09-22 22:04:18.311] [remoteagent] [info] [127.0.0.1][137f008a][ExtensionHostConnection] <193> Extension Host Process exited with code: 0, signal: null.
+[2022-09-22 22:10:28.160] [remoteagent] [info] [127.0.0.1][157dbddb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-09-22 22:10:28.257] [remoteagent] [info] [127.0.0.1][0539f1fb][ExtensionHostConnection] <13549> Extension Host Process exited with code: 0, signal: null.

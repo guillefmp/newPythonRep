@@ -1,0 +1,43 @@
+[2022-12-05 21:39:45.288] [exthost] [info] Extension host with pid 124 started
+[2022-12-05 21:39:46.147] [exthost] [info] Lock '/home/gmperez/.vscode-server/data/User/workspaceStorage/51c7c472843de2a289f763cd2ee66281/vscode.lock': Lock acquired.
+[2022-12-05 21:39:47.713] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-12-05 21:39:47.727] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-12-05 21:39:47.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-05 21:39:47.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-12-05 21:39:47.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-05 21:39:47.745] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-12-05 21:39:47.746] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-12-05 21:39:59.713] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-05 21:39:59.714] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-05 21:39:59.714] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-12-05 21:39:59.715] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-05 21:40:02.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-12-05 21:40:02.589] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-12-05 21:40:06.260] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-12-05 21:40:08.049] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-12-05 21:40:10.612] [exthost] [info] Eager extensions activated
+[2022-12-05 21:40:11.778] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-07 07:34:39.463] [exthost] [info] Extension host terminating: renderer disconnected for too long (2)
+[2022-12-07 07:34:39.491] [exthost] [info] Lock '/home/gmperez/.vscode-server/data/User/workspaceStorage/51c7c472843de2a289f763cd2ee66281/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-12-07 07:34:42.764] [exthost] [info] Extension host with pid 124 exiting with code 0
+[2022-12-07 20:52:11.865] [exthost] [info] Extension host with pid 9406 started
+[2022-12-07 20:52:11.914] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-12-07 20:52:11.941] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-12-07 20:52:11.942] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+[2022-12-07 20:52:11.943] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-07 20:52:11.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-07 20:52:11.944] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-12-07 20:52:11.982] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-12-07 20:52:25.062] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-07 20:52:25.063] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-07 20:52:25.063] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-12-07 20:52:25.064] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-07 20:52:25.807] [exthost] [info] Lock '/home/gmperez/.vscode-server/data/User/workspaceStorage/51c7c472843de2a289f763cd2ee66281/vscode.lock': Lock acquired.
+[2022-12-07 20:52:26.939] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+[2022-12-07 20:52:26.940] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-12-07 20:52:29.929] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-12-07 20:52:31.361] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-12-07 20:52:37.140] [exthost] [info] Eager extensions activated
+[2022-12-07 20:52:39.028] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-08 21:51:51.502] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-12-08 21:51:51.817] [exthost] [info] Lock '/home/gmperez/.vscode-server/data/User/workspaceStorage/51c7c472843de2a289f763cd2ee66281/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.

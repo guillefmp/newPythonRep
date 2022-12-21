@@ -1,0 +1,5 @@
+2022-12-20 21:07:45.579 [info] Extension host agent started.
+2022-12-20 21:08:04.794 [info] [127.0.0.1][c71840e9][ManagementConnection] New connection established.
+2022-12-20 21:08:04.797 [info] [127.0.0.1][d6d1fc2d][ExtensionHostConnection] New connection established.
+2022-12-20 21:08:10.329 [info] [127.0.0.1][d6d1fc2d][ExtensionHostConnection] <226> Launched Extension Host Process.
+2022-12-20 21:08:24.035 [info] Deleted from disk ms-python.vscode-pylance /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.40

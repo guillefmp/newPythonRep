@@ -1,0 +1,5 @@
+[2022-09-22 22:10:38.677] [remoteagent] [info] Extension host agent started.
+[2022-09-22 22:10:39.033] [remoteagent] [info] [127.0.0.1][f0353c9a][ManagementConnection] New connection established.
+[2022-09-22 22:10:39.453] [remoteagent] [info] [127.0.0.1][125e3e27][ExtensionHostConnection] New connection established.
+[2022-09-22 22:10:40.087] [remoteagent] [info] [127.0.0.1][125e3e27][ExtensionHostConnection] <14537> Launched Extension Host Process.
+[2022-09-22 22:10:47.065] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.20

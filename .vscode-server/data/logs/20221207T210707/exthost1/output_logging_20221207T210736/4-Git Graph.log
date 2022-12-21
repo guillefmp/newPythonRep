@@ -1,0 +1,48 @@
+[2022-12-07 21:23:05.649] Starting Git Graph ...
+[2022-12-07 21:23:05.690] Using git (version: 2.25.1)
+[2022-12-07 21:23:05.779] Started Git Graph - Ready to use!
+[2022-12-07 21:23:05.793] Searching workspace for new repos ...
+[2022-12-07 21:23:05.815] > git rev-parse --show-toplevel
+[2022-12-07 21:23:05.828] Added new repo: /home/gmperez/test/python-starterpack
+[2022-12-07 21:23:05.855] Completed searching workspace for new repos
+[2022-12-07 21:23:05.856] Showing "Git Graph" Status Bar Item
+[2022-12-07 21:23:05.902] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2022-12-07 22:01:17.892] Created Git Graph View
+[2022-12-07 22:01:20.115] > git branch -a --no-color
+[2022-12-07 22:01:20.132] > git remote
+[2022-12-07 22:01:20.157] > git reflog --format=... refs/stash --
+[2022-12-07 22:01:20.184] Started watching repo: /home/gmperez/test/python-starterpack
+[2022-12-07 22:01:20.234] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-12-07 22:01:20.257] > git show-ref -d --head
+[2022-12-07 22:01:20.366] > git status --untracked-files=all --porcelain
+[2022-12-07 22:01:20.563] > git --no-pager config --list -z --includes
+[2022-12-07 22:01:20.601] > git --no-pager config --list -z --includes --local
+[2022-12-07 22:01:20.635] > git --no-pager config --list -z --includes --global
+[2022-12-07 22:01:39.174] > git -c log.showSignature=false show --quiet 915a79d06ef817abb10c18051fc1a0cd81f738a2 --format=...
+[2022-12-07 22:01:39.206] > git diff-tree --name-status -r --root --find-renames --diff-filter=AMDR -z 915a79d06ef817abb10c18051fc1a0cd81f738a2
+[2022-12-07 22:01:39.219] > git diff-tree --numstat -r --root --find-renames --diff-filter=AMDR -z 915a79d06ef817abb10c18051fc1a0cd81f738a2
+[2022-12-07 22:18:55.615] > git branch -a --no-color
+[2022-12-07 22:18:55.633] > git remote
+[2022-12-07 22:18:55.707] > git reflog --format=... refs/stash --
+[2022-12-07 22:18:55.736] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-12-07 22:18:55.745] > git show-ref -d --head
+[2022-12-07 22:18:55.778] > git status --untracked-files=all --porcelain
+[2022-12-07 22:20:49.944] > git branch -a --no-color
+[2022-12-07 22:20:49.972] > git remote
+[2022-12-07 22:20:49.987] > git reflog --format=... refs/stash --
+[2022-12-07 22:20:50.015] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-12-07 22:20:50.036] > git show-ref -d --head
+[2022-12-07 22:20:50.066] > git status --untracked-files=all --porcelain
+[2022-12-07 22:20:53.888] > git branch -a --no-color
+[2022-12-07 22:20:53.904] > git remote
+[2022-12-07 22:20:53.926] > git reflog --format=... refs/stash --
+[2022-12-07 22:20:53.954] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-12-07 22:20:53.970] > git show-ref -d --head
+[2022-12-07 22:20:53.990] > git status --untracked-files=all --porcelain
+[2022-12-07 22:23:40.436] > git branch -a --no-color
+[2022-12-07 22:23:40.448] > git remote
+[2022-12-07 22:23:40.491] > git reflog --format=... refs/stash --
+[2022-12-07 22:23:40.927] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-12-07 22:23:40.951] > git show-ref -d --head
+[2022-12-07 22:23:41.432] > git status --untracked-files=all --porcelain
+[2022-12-07 22:23:44.637] Stopped watching repo: /home/gmperez/test/python-starterpack

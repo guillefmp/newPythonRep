@@ -1,0 +1,10 @@
+[2022-11-01T04:34:56.248Z] Log level: Info
+[2022-11-01T04:34:56.293Z] [info] Validating found git in: git
+[2022-11-01T04:34:56.486Z] [info] Using git 2.25.1 from git
+[2022-11-01T04:34:56.906Z] > git rev-parse --show-toplevel [313ms]
+[2022-11-01T04:34:57.101Z] > git rev-parse --git-dir --git-common-dir [159ms]
+[2022-11-01T04:34:57.165Z] [info] Open repository: /home/gmperez
+[2022-11-01T04:34:57.974Z] > git status -z -uall [768ms]
+[2022-11-01T04:35:15.952Z] > git check-ignore -v -z --stdin [1642ms]
+[2022-11-01T04:35:17.069Z] > git show --textconv :py-proyect/hello.py [952ms]
+[2022-11-01T04:35:17.070Z] > git ls-files --stage -- /home/gmperez/py-proyect/hello.py [931ms]

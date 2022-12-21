@@ -1,0 +1,20 @@
+[2022-10-31 22:28:11.954] [remoteagent] [info] Extension host agent started.
+[2022-10-31 22:28:15.196] [remoteagent] [info] [127.0.0.1][d83a138c][ManagementConnection] New connection established.
+[2022-10-31 22:28:15.201] [remoteagent] [info] [127.0.0.1][94c59141][ExtensionHostConnection] New connection established.
+[2022-10-31 22:28:15.209] [remoteagent] [info] [127.0.0.1][94c59141][ExtensionHostConnection] <3884> Launched Extension Host Process.
+[2022-10-31 22:28:45.577] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-10-31 22:28:45.578] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-10-31 22:28:45.707] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-10-31 22:28:45.761] [remoteagent] [info] Installing extension: ms-python.python
+[2022-10-31 22:28:50.218] [remoteagent] [info] Downloaded extension: ms-python.python /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.16.1
+[2022-10-31 22:28:51.576] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.10.40
+[2022-10-31 22:29:00.436] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.ade18f40-22e4-4f75-838c-93c63707c9ae: ms-python.python
+[2022-10-31 22:29:01.359] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-python.python-2022.16.1
+[2022-10-31 22:29:01.375] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-10-31 22:29:02.602] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-10-31 22:29:07.834] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.48c4190e-5e4b-4cba-8561-3c484a6bed95: ms-python.vscode-pylance
+[2022-10-31 22:29:09.232] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.40
+[2022-10-31 22:29:09.238] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-10-31 22:29:09.819] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-10-31 22:29:44.371] [remoteagent] [info] [127.0.0.1][d83a138c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-31 22:29:45.595] [remoteagent] [info] [127.0.0.1][94c59141][ExtensionHostConnection] <3884> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,24 @@
+Este es un archiivo
+de texto para 
+hacer la prueba de 
+la impresio de lineas
+Esto es para 
+saber que linea es la 
+que se muestra
+esta es la linea 8
+y esta la 9
+pero que mal que 
+no recuerde como es el 
+encabezado de un 
+programa en python
+sin duda tengo
+que retomarlo porque si 
+se olvoida
+muy facilmente
+ya ni modos
+luego veo como me voy 
+a poner al corriente.
+
+Saludos 
+Besos bye
+bye bye

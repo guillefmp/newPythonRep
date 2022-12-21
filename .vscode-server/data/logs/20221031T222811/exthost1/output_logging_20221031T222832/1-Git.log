@@ -1,0 +1,7 @@
+[2022-11-01T04:28:44.309Z] Log level: Info
+[2022-11-01T04:28:44.486Z] [info] Validating found git in: git
+[2022-11-01T04:28:45.212Z] [info] Using git 2.25.1 from git
+[2022-11-01T04:28:45.902Z] > git rev-parse --show-toplevel [667ms]
+[2022-11-01T04:28:45.928Z] > git rev-parse --git-dir --git-common-dir [6ms]
+[2022-11-01T04:28:45.978Z] [info] Open repository: /home/gmperez
+[2022-11-01T04:28:47.023Z] > git check-ignore -v -z --stdin [6ms]

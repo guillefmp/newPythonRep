@@ -1,0 +1,19 @@
+[2022-09-22 21:58:35.037] [exthost] [info] Extension host with pid 13549 started
+[2022-09-22 21:58:35.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-22 21:58:35.190] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-22 21:58:35.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-22 21:58:35.217] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-09-22 21:58:35.229] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-09-22 21:58:35.287] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-09-22 21:58:35.422] [exthost] [info] Lock '/home/gmperez/.vscode-server/data/User/workspaceStorage/dbef9a509367f05d0343afc8d6d150ab/vscode.lock': Lock acquired.
+[2022-09-22 21:58:35.479] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-22 21:58:35.578] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-22 21:58:37.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-22 21:58:37.184] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-22 21:58:37.195] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-22 21:58:37.305] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-22 21:58:37.314] [exthost] [info] Eager extensions activated
+[2022-09-22 21:59:31.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-09-22 22:10:28.159] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-22 22:10:28.160] [exthost] [info] Lock '/home/gmperez/.vscode-server/data/User/workspaceStorage/dbef9a509367f05d0343afc8d6d150ab/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-09-22 22:10:28.230] [exthost] [info] Extension host with pid 13549 exiting with code 0

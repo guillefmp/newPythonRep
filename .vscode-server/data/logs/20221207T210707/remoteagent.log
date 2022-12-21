@@ -1,0 +1,50 @@
+[2022-12-07 21:07:08.164] [remoteagent] [info] Extension host agent started.
+[2022-12-07 21:07:10.656] [remoteagent] [info] [127.0.0.1][931ee882][ManagementConnection] New connection established.
+[2022-12-07 21:07:10.879] [remoteagent] [info] [127.0.0.1][11f2e0bf][ExtensionHostConnection] New connection established.
+[2022-12-07 21:07:14.439] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-07 21:07:18.715] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2022-12-07 21:07:18.716] [remoteagent] [error] RequestService#request (node) resolving shell environment failed {}
+[2022-12-07 21:07:18.728] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-12-07 21:07:18.797] [remoteagent] [info] [127.0.0.1][11f2e0bf][ExtensionHostConnection] <9618> Launched Extension Host Process.
+[2022-12-07 21:07:22.860] [remoteagent] [info] Deleted from disk esbenp.prettier-vscode /home/gmperez/.vscode-server/extensions/esbenp.prettier-vscode-9.9.0
+[2022-12-07 21:07:22.861] [remoteagent] [info] Deleted from disk ms-toolsai.jupyter-renderers /home/gmperez/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.9
+[2022-12-07 21:07:29.353] [remoteagent] [info] Deleted from disk christian-kohler.path-intellisense /home/gmperez/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.1
+[2022-12-07 21:07:55.939] [remoteagent] [info] Deleted from disk ms-toolsai.jupyter /home/gmperez/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955
+[2022-12-07 21:08:00.133] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.40
+[2022-12-07 21:08:02.157] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-12-07 21:08:02.857] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-12-07 21:08:05.152] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-12-07 21:08:12.041] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.12.20
+[2022-12-07 21:09:02.751] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.a70abbd5-d120-460f-8cf0-213b21b41cb2: ms-python.vscode-pylance
+[2022-12-07 21:09:03.944] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.12.20
+[2022-12-07 21:09:03.948] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-12-07 21:09:04.635] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-12-07 21:09:13.032] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-12-07 21:22:57.643] [remoteagent] [info] Getting Manifest... mhutchie.git-graph
+[2022-12-07 21:22:57.839] [remoteagent] [info] Installing extension: mhutchie.git-graph
+[2022-12-07 21:23:00.079] [remoteagent] [info] Downloaded extension: mhutchie.git-graph /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/mhutchie.git-graph-1.30.0
+[2022-12-07 21:23:00.873] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.f7abae11-4c03-451d-97a6-5a4d8b93353f: mhutchie.git-graph
+[2022-12-07 21:23:01.019] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/mhutchie.git-graph-1.30.0
+[2022-12-07 21:23:01.027] [remoteagent] [info] Extracting completed. mhutchie.git-graph
+[2022-12-07 21:23:01.030] [remoteagent] [info] Extension installed successfully: mhutchie.git-graph
+[2022-12-07 21:23:09.130] [remoteagent] [info] Getting Manifest... eamodio.gitlens
+[2022-12-07 21:23:09.451] [remoteagent] [info] Installing extension: eamodio.gitlens
+[2022-12-07 21:23:12.077] [remoteagent] [info] Downloaded extension: eamodio.gitlens /home/gmperez/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-13.1.1
+[2022-12-07 21:23:15.965] [remoteagent] [info] Extracted extension to /home/gmperez/.vscode-server/extensions/.ea0597dc-de90-4a29-ab7f-5bab5f6419df: eamodio.gitlens
+[2022-12-07 21:23:16.101] [remoteagent] [info] Renamed to /home/gmperez/.vscode-server/extensions/eamodio.gitlens-13.1.1
+[2022-12-07 21:23:16.117] [remoteagent] [info] Extracting completed. eamodio.gitlens
+[2022-12-07 21:23:16.119] [remoteagent] [info] Extension installed successfully: eamodio.gitlens
+[2022-12-07 23:16:16.264] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-07 23:18:06.318] [remoteagent] [info] [127.0.0.1][11f2e0bf][ExtensionHostConnection] The client has reconnected.
+[2022-12-07 23:18:07.819] [remoteagent] [info] [127.0.0.1][931ee882][ManagementConnection] The client has reconnected.
+[2022-12-07 23:50:37.224] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-07 23:51:22.557] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-08 07:34:00.207] [remoteagent] [info] [127.0.0.1][931ee882][ManagementConnection] The client has reconnected.
+[2022-12-08 07:34:20.279] [remoteagent] [info] [127.0.0.1][11f2e0bf][ExtensionHostConnection] The client has reconnected.
+[2022-12-08 07:55:41.136] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-08 21:24:40.029] [remoteagent] [info] [127.0.0.1][931ee882][ManagementConnection] The client has reconnected.
+[2022-12-08 21:24:46.554] [remoteagent] [info] [127.0.0.1][931ee882][ManagementConnection] The client has reconnected.
+[2022-12-08 21:24:47.933] [remoteagent] [info] [127.0.0.1][11f2e0bf][ExtensionHostConnection] The client has reconnected.
+[2022-12-08 21:37:17.841] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-12-08 21:51:28.704] [remoteagent] [info] [127.0.0.1][931ee882][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-12-08 21:51:33.070] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

@@ -1,0 +1,47 @@
+[2022-12-07 21:07:36.617] [exthost] [info] Extension host with pid 9618 started
+[2022-12-07 21:07:36.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-07 21:07:36.883] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-12-07 21:07:36.889] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-07 21:07:36.892] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-12-07 21:07:36.892] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-12-07 21:07:39.709] [exthost] [info] Lock '/home/gmperez/.vscode-server/data/User/workspaceStorage/57f9566b93aa9e225d8c04c0a7c8525a/vscode.lock': Lock acquired.
+[2022-12-07 21:07:41.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-12-07 21:07:41.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-12-07 21:07:44.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-07 21:07:44.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-07 21:07:44.266] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-12-07 21:07:44.270] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-07 21:07:44.280] [exthost] [info] Eager extensions activated
+[2022-12-07 21:07:47.017] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-07 21:12:00.753] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-12-07 21:12:06.421] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-12-07 21:21:01.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-12-07 21:21:01.308] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-12-07 21:21:06.064] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-12-07 21:23:05.410] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+[2022-12-07 21:23:21.025] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-07 21:28:24.455] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-12-07 21:28:24.456] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-12-07 22:20:55.327] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 482
+[2022-12-07 22:22:20.735] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/gmperez/test/python-starterpack/venv/lib64/python3.8/site-packages' is beyond a symbolic link\n","exitCode":128}
+[2022-12-07 22:22:20.735] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/gmperez/test/python-starterpack/venv/lib64/python3.8/site-packages' is beyond a symbolic link\n","exitCode":128}
+[2022-12-07 22:22:20.735] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/gmperez/test/python-starterpack/venv/lib64/python3.8/site-packages' is beyond a symbolic link\n","exitCode":128}
+[2022-12-07 22:22:20.735] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/gmperez/test/python-starterpack/venv/lib64/python3.8/site-packages' is beyond a symbolic link\n","exitCode":128}
+[2022-12-07 22:22:20.735] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/gmperez/test/python-starterpack/venv/lib64/python3.8/site-packages' is beyond a symbolic link\n","exitCode":128}
+[2022-12-07 22:22:20.735] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/gmperez/test/python-starterpack/venv/lib64/python3.8/site-packages' is beyond a symbolic link\n","exitCode":128}
+[2022-12-07 22:22:20.735] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/gmperez/test/python-starterpack/venv/lib64/python3.8/site-packages' is beyond a symbolic link\n","exitCode":128}
+[2022-12-07 22:22:20.735] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/gmperez/test/python-starterpack/venv/lib64/python3.8/site-packages' is beyond a symbolic link\n","exitCode":128}
+[2022-12-07 22:22:20.735] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/gmperez/test/python-starterpack/venv/lib64/python3.8/site-packages' is beyond a symbolic link\n","exitCode":128}
+[2022-12-07 22:23:40.847] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 483
+[2022-12-07 22:24:00.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-12-07 22:26:52.245] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 483
+[2022-12-07 22:33:38.740] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-12-07 22:33:38.743] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-12-07 22:33:46.942] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-12-07 22:33:47.898] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-12-08 21:49:34.433] [exthost] [warning] TextEditor is closed/disposed
+[2022-12-08 21:50:51.268] [exthost] [warning] TextEditor is closed/disposed
+[2022-12-08 21:51:12.675] [exthost] [warning] TextEditor is closed/disposed
+[2022-12-08 21:51:17.795] [exthost] [warning] TextEditor is closed/disposed
+[2022-12-08 21:51:27.991] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-12-08 21:51:28.659] [exthost] [info] Lock '/home/gmperez/.vscode-server/data/User/workspaceStorage/57f9566b93aa9e225d8c04c0a7c8525a/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.

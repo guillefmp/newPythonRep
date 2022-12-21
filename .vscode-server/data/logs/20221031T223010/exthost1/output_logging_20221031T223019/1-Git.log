@@ -1,0 +1,18 @@
+[2022-11-01T04:30:20.839Z] Log level: Info
+[2022-11-01T04:30:20.851Z] [info] Validating found git in: git
+[2022-11-01T04:30:20.945Z] [info] Using git 2.25.1 from git
+[2022-11-01T04:30:21.174Z] > git rev-parse --show-toplevel [153ms]
+[2022-11-01T04:30:21.215Z] > git rev-parse --git-dir --git-common-dir [2ms]
+[2022-11-01T04:30:21.228Z] [info] Open repository: /home/gmperez
+[2022-11-01T04:32:29.824Z] > git status -z -uall [128573ms]
+[2022-11-01T04:32:41.916Z] > git symbolic-ref --short HEAD [1ms]
+[2022-11-01T04:32:41.925Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-11-01T04:32:41.941Z] > git remote --verbose [2ms]
+[2022-11-01T04:32:41.942Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-11-01T04:32:43.694Z] > git config --get commit.template [33ms]
+[2022-11-01T04:32:44.229Z] > git status -z -uall [497ms]
+[2022-11-01T04:32:44.230Z] > git symbolic-ref --short HEAD [2ms]
+[2022-11-01T04:32:44.242Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-11-01T04:32:44.263Z] > git remote --verbose [1ms]
+[2022-11-01T04:32:44.264Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-11-01T04:32:45.899Z] > git config --get commit.template [38ms]

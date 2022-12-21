@@ -1,0 +1,8 @@
+[2022-12-21 03:13:13.853] [GIT  ] [/home/gmperez] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 56 ms
+
+[2022-12-21 03:15:33.216] [GIT  ] [/home/gmperez/personalProjects] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 10 ms
+
+[2022-12-21 03:27:00.963] [GIT  ] [/home/gmperez] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 11 ms
+
+[2022-12-21 05:00:37.929] [GIT  ] [/home/gmperez] git blame --root --incremental -- hello.py • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false blame --root --incremental -- hello.py • no such ref: HEAD • 23 ms
+

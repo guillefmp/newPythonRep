@@ -1,0 +1,8 @@
+[2022-10-03 23:28:50.611] [remoteagent] [info] Extension host agent started.
+[2022-10-03 23:28:52.230] [remoteagent] [info] [127.0.0.1][8a0a8cd0][ManagementConnection] New connection established.
+[2022-10-03 23:28:52.236] [remoteagent] [info] [127.0.0.1][a61fe5a5][ExtensionHostConnection] New connection established.
+[2022-10-03 23:28:52.393] [remoteagent] [info] [127.0.0.1][a61fe5a5][ExtensionHostConnection] <223> Launched Extension Host Process.
+[2022-10-03 23:28:55.941] [remoteagent] [info] Deleted from disk esbenp.prettier-vscode /home/gmperez/.vscode-server/extensions/esbenp.prettier-vscode-9.8.0
+[2022-10-03 23:29:23.956] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.30
+[2022-10-03 23:49:38.491] [remoteagent] [info] [127.0.0.1][8a0a8cd0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-03 23:49:38.540] [remoteagent] [info] [127.0.0.1][a61fe5a5][ExtensionHostConnection] <223> Extension Host Process exited with code: 0, signal: null.

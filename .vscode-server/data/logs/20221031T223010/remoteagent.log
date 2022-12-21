@@ -1,0 +1,20 @@
+[2022-10-31 22:30:10.488] [remoteagent] [info] Extension host agent started.
+[2022-10-31 22:30:11.019] [remoteagent] [info] [127.0.0.1][0a16ed64][ManagementConnection] New connection established.
+[2022-10-31 22:30:11.454] [remoteagent] [info] [127.0.0.1][f2656ee4][ExtensionHostConnection] New connection established.
+[2022-10-31 22:30:11.549] [remoteagent] [info] [127.0.0.1][f2656ee4][ExtensionHostConnection] <4022> Launched Extension Host Process.
+[2022-10-31 22:30:15.349] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/gmperez/.vscode-server/extensions/ms-python.vscode-pylance-2022.9.40
+[2022-10-31 22:30:15.365] [remoteagent] [info] Deleted from disk ms-python.python /home/gmperez/.vscode-server/extensions/ms-python.python-2022.14.0
+[2022-10-31 22:34:48.147] [remoteagent] [info] [127.0.0.1][d8b0870b][ManagementConnection] New connection established.
+[2022-10-31 22:34:49.487] [remoteagent] [info] [127.0.0.1][be4e6026][ExtensionHostConnection] New connection established.
+[2022-10-31 22:34:49.546] [remoteagent] [info] [127.0.0.1][be4e6026][ExtensionHostConnection] <4195> Launched Extension Host Process.
+[2022-10-31 23:15:10.102] [remoteagent] [info] [127.0.0.1][0a16ed64][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-31 23:15:10.345] [remoteagent] [info] [127.0.0.1][f2656ee4][ExtensionHostConnection] <4022> Extension Host Process exited with code: 0, signal: null.
+[2022-10-31 23:15:34.916] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-31 23:16:06.021] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-11-01 07:31:09.247] [remoteagent] [info] [127.0.0.1][d8b0870b][ManagementConnection] The client has reconnected.
+[2022-11-01 07:31:09.541] [remoteagent] [info] [127.0.0.1][be4e6026][ExtensionHostConnection] The client has reconnected.
+[2022-11-01 07:50:23.041] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-11-01 21:10:16.498] [remoteagent] [info] [127.0.0.1][be4e6026][ExtensionHostConnection] The client has reconnected.
+[2022-11-01 21:10:16.940] [remoteagent] [info] [127.0.0.1][d8b0870b][ManagementConnection] The client has reconnected.
+[2022-11-01 21:11:40.193] [remoteagent] [info] [127.0.0.1][d8b0870b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-11-01 21:11:41.618] [remoteagent] [info] [127.0.0.1][be4e6026][ExtensionHostConnection] <4195> Extension Host Process exited with code: 0, signal: null.
